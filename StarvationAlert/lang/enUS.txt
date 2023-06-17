@@ -1,0 +1,2 @@
+ID,Text,Comment
+Need.Hunger.CriticalDescriptionShort,Beaver is starving,"This shows up in alert when a beaver is starving."

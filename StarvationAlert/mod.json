@@ -1,0 +1,7 @@
+{
+  "Name": "StarvationAlert",
+  "Version": "0.1.0",
+  "UniqueId": "hsinpaohuang.Starvation",
+  "MinimumApiVersion": "0.5.0",
+  "MinimumGameVersion": "0.2.8"
+}

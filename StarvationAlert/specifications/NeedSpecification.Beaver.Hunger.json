@@ -1,0 +1,6 @@
+{
+  "CriticalNeedType": {
+    "Value": "StateWithAlert"
+  },
+  "CriticalDescriptionShortLocKey": "Need.Hunger.CriticalDescriptionShort"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "StarvationAlert",
+  "version_number": "0.1.0",
+  "website_url": "",
+  "description": "",
+  "dependencies": [
+    "Timberborn_Central-TimberAPI-0.5.1"
+  ]
+}

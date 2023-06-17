@@ -1,0 +1,2 @@
+ID,Text,Comment
+Need.Thirst.CriticalDescriptionShort,Beaver is dehydrated,"This shows up in alert when a beaver is dehydrated."
