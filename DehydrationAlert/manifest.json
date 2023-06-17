@@ -1,8 +1,8 @@
 {
   "name": "DehydrationAlert",
   "version_number": "0.1.0",
-  "website_url": "",
-  "description": "",
+  "website_url": "https://github.com/hsinpaohuang/Timberborn-mods",
+  "description": "Adds dehydration alert to the bottom left corner.",
   "dependencies": [
     "Timberborn_Central-TimberAPI-0.5.1"
   ]
