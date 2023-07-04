@@ -1,0 +1,2 @@
+ID,Text,Comment
+Need.Thirst.CriticalDescriptionShort,Der Biber ist durstig,"Dies wird in den Warnungen angezeigt, wenn ein Biber durstig ist."
