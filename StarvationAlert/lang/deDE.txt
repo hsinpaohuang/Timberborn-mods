@@ -1,0 +1,2 @@
+ID,Text,Comment
+Need.Hunger.CriticalDescriptionShort,Der Biber ist hungrig,"Dies wird in den Warnungen angezeigt, wenn ein Biber hungrig ist."
